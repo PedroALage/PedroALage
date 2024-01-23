@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, Pedro Lage aqui 👋
 
-<!--
-**PedroALage/PedroALage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cientista/Analista de dados e apaixonado por encontrar informação escondida 🔍. Atualmente focado em Ciência de Dados, trabalhei pricipalmente com Oracle Cloud (SQL, JavaScript, APIs, entre outras funcionalidades) 
 
-Here are some ideas to get you started:
+ - 👨🏻‍💻 Cientista de Dados
+ - 🎮 Apaixonado por jogos eletrônicos
+ - 👨‍🎓 Atualmente estou me especializando em Ciência de Dados na PUC Minas
+ - 🖥️ Focado nas liguagens:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div display=""inline">
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+##
+
+### Você também me encontra em:
+&nbsp;<a href="https://br.linkedin.com/in/pedroaraujo08">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+ 
